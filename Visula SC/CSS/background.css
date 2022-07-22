@@ -1,0 +1,15 @@
+
+body,html {
+  background-image:
+    url(/Images/blue\ and\ white\ background.jpg),
+    url(/Images/low_poly_banner_design_1711.jpg);
+  background-position:
+    -100px 0px,0px 1000px;
+  background-repeat:
+    no-repeat;
+  background-size:
+    1850px 1000px;
+  padding:
+    0px;
+}
+
